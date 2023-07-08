@@ -50,22 +50,22 @@ By using the dataset above, our objective is to find the most appropriate market
 
 #### **Elbow Method**
 
-![image.png](attachment:1f755509-ddbd-4fc8-a597-ffef0cd040e7.png)
+![image](https://github.com/mpythree/Airline-Customers-Value-Analysis-with-Kmeans/assets/86466306/dcc7c424-6ea2-4c50-a130-3137b00e0ca4)
 
 #### **"Silhouette Score"** using **"Elbow Method"**
 
 The optimal amount of clusters is 4 clusters. Otherwise, then the reduction of inertia value won't be significant.
 
-![image.png](attachment:40924391-20c9-4f1f-87f0-e167bb1f9643.png)
+![image](https://github.com/mpythree/Airline-Customers-Value-Analysis-with-Kmeans/assets/86466306/ab998728-32c5-4f0a-9774-e5b69fcac13a)
 
 ## Clustering Using PCA
 
-![image.png](attachment:205f220e-1c66-40cc-944f-6edbf302e754.png)
-![image.png](attachment:2140a39e-98d4-4dbf-bbcd-ccd3fd2eda79.png)
+![image](https://github.com/mpythree/Airline-Customers-Value-Analysis-with-Kmeans/assets/86466306/b781406f-d482-4d3a-8415-b07c54c1c238)
+![image](https://github.com/mpythree/Airline-Customers-Value-Analysis-with-Kmeans/assets/86466306/99cc4a5c-b257-4694-844e-84d871024380)
 
 ## Silhouette Score Plot
 
-![image.png](attachment:7448cbef-1f12-4108-90d6-012dfb352854.png)
+![image](https://github.com/mpythree/Airline-Customers-Value-Analysis-with-Kmeans/assets/86466306/d552960d-9f41-4bad-9ddf-35f781116c4c)
 
 # Model Interpretation and Recommendation
 
@@ -73,8 +73,8 @@ The optimal amount of clusters is 4 clusters. Otherwise, then the reduction of i
 
 By using K-means, hence we found the LRFMC statistical mean and median of each feature of each cluster.
 
-![image.png](attachment:ddace344-93b1-4ab7-87e0-0c8693fbf009.png)
-![image.png](attachment:b120a3de-c137-44a3-9d2e-10e2241bb6e0.png)
+![image](https://github.com/mpythree/Airline-Customers-Value-Analysis-with-Kmeans/assets/86466306/e9b9a648-e47e-4915-9d58-357adf77ed5f)
+![image](https://github.com/mpythree/Airline-Customers-Value-Analysis-with-Kmeans/assets/86466306/b40eadfe-1f42-4cc1-82f6-8ebc40fb67df)
 
 ## Cluster Description
 
