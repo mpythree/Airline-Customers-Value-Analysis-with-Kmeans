@@ -2,7 +2,7 @@
 
 This team project was conducted as the completion of an assignment from Rakamin Academy Data Science Bootcamp.
 
-# Deskripsi Dataset
+# Dataset Description
 
 This dataset contains costumers data of an Airline Company and some features that can describe the value of the customer. Each row represents a customer, each column contains customers attribute. The dataset can be downloaded [here](https://drive.google.com/file/d/14G4xOWK5e-QQ9S7GmBwULChNdeJZXs2U/view?usp=drive_link)
 
