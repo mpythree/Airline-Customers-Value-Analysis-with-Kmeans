@@ -1,6 +1,3 @@
-# Airline-Customers-Value-Analysis-with-Kmeans
-Airline customers value analysis case using unsupervised learning K-means clustering with Python
-
 # **Airline Customers Value Analysis with K-mean**
 
 This team project was conducted as the completion of an assignment from Rakamin Academy Data Science Bootcamp.
